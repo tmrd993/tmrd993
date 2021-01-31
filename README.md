@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 👋 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmrd993&layout=compact" alt="My most used programming languages">
 
 - 👨‍💻 All of my projects are available at [https://github.com/tmrd993?tab=repositories](https://github.com/tmrd993?tab=repositories)
 
