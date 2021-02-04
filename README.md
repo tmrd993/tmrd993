@@ -1,6 +1,6 @@
 ### Hi 👋 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmrd993&layout=compact" alt="My most used programming languages">
 
-- 👨‍💻 All of my projects are available at [click](https://github.com/tmrd993?tab=repositories&q=&type=source&language=)
+- 👨‍💻 All of my projects are available at [GitHub Repos](https://github.com/tmrd993?tab=repositories&q=&type=source&language=)
 
 - 📫 How to reach me **tmerd@outlook.de**
 
